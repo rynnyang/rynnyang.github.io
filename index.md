@@ -19,22 +19,23 @@ In the future, I hope to pursue a Ph.D. in NLP and contribute to cutting-edge re
 
 ---
 
-## EDUCATION  
+## EDUCATION
+
 ### Fudan University, Shanghai, China  
 Major: Computer Science and Technology | Sep 2022 – Jun 2026  
 - Cumulative GPA: 3.67/4.0  
-- Awards: Third Prize for the 2023-2024 academic year Fudan University Outstanding Student Scholarship,
-          Third Prize for the 2022-2023 academic year Fudan University Outstanding Student Scholarship  
+- Scholarships: 
+  Third Prize for the 2023-2024 academic year Fudan University Outstanding Student Scholarship,
+  Third Prize for the 2022-2023 academic year Fudan University Outstanding Student Scholarship  
 
----
 
 ### University of California, Davis, CA, USA  
 Exchange Program | Sep 2024 – Dec 2024  
 - Cumulative GPA: 4.0/4.0  
 
+---
 
-
-## PROJECTS AND LABORATORY EXPERIENCE  
+## PROJECTS AND LABORATORY EXPERIENCE
 
 ### Fudan University Natural Language Processing Group  
 *Undergraduate Intern*  
@@ -72,9 +73,10 @@ Shanghai, China | Dec 2024 – Present
 
 ---
 
-## LEADERSHIP EXPERIENCE AND VOLUNTEER SERVICES  
+## EXPERIENCE
 
-### Class President, Computer Science Undergraduates Class of 2022, Fudan University  
+### Leadership
+Class President, Computer Science Undergraduates Class of 2022, Fudan University  
 Sep 2023 – Present  
 - Assisted the counselor in managing a class of 120 students, organizing and coordinating various internal and external activities, including spring outings, choir competitions, and the production of military training videos.  
 - Ensured efficient and orderly class operations, enhancing teacher-student connections and class cohesion.
