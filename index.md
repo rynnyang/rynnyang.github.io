@@ -3,6 +3,7 @@ layout: page
 ---
 
 # About Me
+
 <!-- <img src="photo.jpg" align="right" alt="Personal Image" style="width: 240px; height: 300px; object-fit: cover;" /> -->
 <img src="images/ycy.jpg" alt="Personal Image" class="floatpic"/>
 
@@ -16,6 +17,7 @@ In the future, I hope to pursue a Ph.D. in NLP and contribute to cutting-edge re
 
 **<font color="#990000">I am actively seeking Summer Research opportunities for 2025 summer. If you have any information, please contact me. Thank you!</font>**
 
+---
 
 ## EDUCATION  
 ### Fudan University, Shanghai, China  
@@ -24,6 +26,7 @@ Major: Computer Science and Technology | Sep 2022 – Jun 2026
 - Awards: Third Prize for the 2023-2024 academic year Fudan University Outstanding Student Scholarship,
           Third Prize for the 2022-2023 academic year Fudan University Outstanding Student Scholarship  
 
+---
 
 ### University of California, Davis, CA, USA  
 Exchange Program | Sep 2024 – Dec 2024  
@@ -56,8 +59,7 @@ Shanghai, China | Jun 2024 – Aug 2024
 - Designed and built an interactive website interface.  
 - Worked on data extraction from open databases and used RAG technology for customized database queries.  
 
-
-
+---
 
 ## INTERNSHIP  
 
@@ -68,8 +70,7 @@ Shanghai, China | Dec 2024 – Present
 - Analyzed test results, identified issues, and provided insights for optimization.  
 - Developed a web-based real-time dashboard to display testing metrics and reports, enabling data-driven decision-making.  
 
-
-
+---
 
 ## LEADERSHIP EXPERIENCE AND VOLUNTEER SERVICES  
 
