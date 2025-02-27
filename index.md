@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 <!-- <img src="photo.jpg" align="right" alt="Personal Image" style="width: 240px; height: 300px; object-fit: cover;" /> -->
-<img src="photo.jpg" alt="Personal Image" class="floatpic"/>
+<img src="images/ycy.jpg" alt="Personal Image" class="floatpic"/>
 
 Here is **Chenyuan Yang (Ryann, 杨晨源)**.<br>
 
