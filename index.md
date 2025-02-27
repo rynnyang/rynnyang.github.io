@@ -1,3 +1,8 @@
+---
+layout: page
+---
+
+# About Me
 <!-- <img src="photo.jpg" align="right" alt="Personal Image" style="width: 240px; height: 300px; object-fit: cover;" /> -->
 <img src="photo.jpg" alt="Personal Image" class="floatpic"/>
 
@@ -8,21 +13,23 @@ Email: 22307130511@m.fudan.edu.cn
 My research interests: Natural Language Processing, Large Language Models  
 [[CV](cv.pdf)]
 
-<br>
+**<font color="#990000">I am actively seeking Summer Research opportunities for 2025 summer. If you have any information, please contact me. Thank you!</font>**
+
+
 ## EDUCATION  
 ### Fudan University, Shanghai, China  
 Major: Computer Science and Technology | Sep 2022 – Jun 2026  
 - Cumulative GPA: 3.67/4.0  
 - Awards: Third Prize for the 2023-2024 academic year Fudan University Outstanding Student Scholarship,
           Third Prize for the 2022-2023 academic year Fudan University Outstanding Student Scholarship  
-<br>
+
 
 ### University of California, Davis, CA, USA  
 Exchange Program | Sep 2024 – Dec 2024  
 - Cumulative GPA: 4.0/4.0  
 
 
-<br>
+
 ## PROJECTS AND LABORATORY EXPERIENCE  
 
 ### Fudan University Natural Language Processing Group  
@@ -31,7 +38,7 @@ Shanghai, China | Apr 2024 – Present
 - Conducted data preprocessing and cleansing for NLP model training and evaluation. Assisted in creating and evaluating datasets for supervised and unsupervised tasks (e.g., sentiment analysis, information extraction).  
 - Designed and implemented a safety alignment experiment using Python and PyTorch to evaluate fine-tuned models for safe and ethical responses.  
 - Designed and implemented an automated evaluation method to assess whether model responses satisfy all specified constraints, with the aim of improving the model’s instruction-following ability.  
-<br>
+
 
 ### THINKDRIVE Autonomous Driving and Digital Twin System (Entrepreneurship Training Project)  
 *Web Front-end Developer*  
@@ -39,7 +46,7 @@ Shanghai, China | Apr 2024 – Present
 - Developed the web interface for the digital twin system, designing intuitive and responsive UIs.  
 - Implemented front-end data processing logic to ensure seamless integration and presentation.  
 - Assisted in building a simulation training platform for autonomous driving AI model improvement.  
-<br>
+
 
 ### Win Excellence Award & Popularity Award in the Shanghai Library Open Data Competition  
 *Team Leader, Web Front-end Developer*  
@@ -50,7 +57,7 @@ Shanghai, China | Jun 2024 – Aug 2024
 
 
 
-<br>
+
 ## INTERNSHIP  
 
 ### Transwarp  
@@ -62,7 +69,7 @@ Shanghai, China | Dec 2024 – Present
 
 
 
-<br>
+
 ## LEADERSHIP EXPERIENCE AND VOLUNTEER SERVICES  
 
 ### Class President, Computer Science Undergraduates Class of 2022, Fudan University  
