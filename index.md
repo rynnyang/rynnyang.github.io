@@ -5,7 +5,6 @@ layout: page
 # About Me
 
 <img src="images/ycy.jpg" alt="Personal Image" class="floatpic"/>
-<br>
 Here is **Chenyuan Yang (Ryann, 杨晨源)**.<br>
 
 I am currently a junior student at the School of Computer Science at [Fudan University](https://www.fudan.edu.cn/en/), China. During the 2024 fall quarter, I had the opportunity to spend a wonderful autumn as an exchange student at UC Davis.
