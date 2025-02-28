@@ -43,7 +43,6 @@ Shanghai, China | Apr 2024 – Present
 - Designed and implemented a safety alignment experiment using Python and PyTorch to evaluate fine-tuned models for safe and ethical responses.  
 - Designed and implemented an automated evaluation method to assess whether model responses satisfy all specified constraints, with the aim of improving the model’s instruction-following ability.  
 
-<br>
 
 ### THINKDRIVE Autonomous Driving and Digital Twin System (Entrepreneurship Training Project)  
 *Web Front-end Developer*  
@@ -52,7 +51,6 @@ Shanghai, China | Apr 2024 – Present
 - Implemented front-end data processing logic to ensure seamless integration and presentation.  
 - Assisted in building a simulation training platform for autonomous driving AI model improvement.  
 
-<br>
 
 ### Win Excellence Award & Popularity Award in the Shanghai Library Open Data Competition  
 *Team Leader, Web Front-end Developer*  
@@ -65,7 +63,7 @@ Shanghai, China | Jun 2024 – Aug 2024
 
 ## INTERNSHIP  
 
-### Transwarp
+#### Transwarp
 
 *Software Testing & Development Intern*  
 Shanghai, China | Dec 2024 – Present  
@@ -80,7 +78,7 @@ Shanghai, China | Dec 2024 – Present
 ### Leadership
 
 Class President, Computer Science Undergraduates Class of 2022, Fudan University  
-Sep 2023 – Present  
+Shanghai, China | Sep 2023 – Present  
 - Assisted the counselor in managing a class of 120 students, organizing and coordinating various internal and external activities, including spring outings, choir competitions, and the production of military training videos.  
 - Ensured efficient and orderly class operations, enhancing teacher-student connections and class cohesion.
 
