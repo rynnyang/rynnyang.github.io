@@ -4,7 +4,6 @@ layout: page
 
 # About Me
 
-<!-- <img src="photo.jpg" align="right" alt="Personal Image" style="width: 240px; height: 300px; object-fit: cover;" /> -->
 <img src="images/ycy.jpg" alt="Personal Image" class="floatpic"/>
 
 Here is **Chenyuan Yang (Ryann, 杨晨源)**.<br>
@@ -24,7 +23,7 @@ In the future, I hope to pursue a Ph.D. in NLP and contribute to cutting-edge re
 ### Fudan University, Shanghai, China  
 Major: Computer Science and Technology | Sep 2022 – Jun 2026  
 - Cumulative GPA: 3.67/4.0  
-- Scholarships: 
+- Scholarships: <br>
   Third Prize for the 2023-2024 academic year Fudan University Outstanding Student Scholarship, <br>
   Third Prize for the 2022-2023 academic year Fudan University Outstanding Student Scholarship  
 
@@ -35,7 +34,7 @@ Exchange Program | Sep 2024 – Dec 2024
 
 ---
 
-## PROJECTS AND LABORATORY EXPERIENCE
+## PROJECTS AND RESEARCH EXPERIENCE
 
 ### Fudan University Natural Language Processing Group  
 *Undergraduate Intern*  
@@ -76,8 +75,8 @@ Shanghai, China | Dec 2024 – Present
 ## EXPERIENCE
 
 ### Leadership
-Class President, Computer Science Undergraduates Class of 2022, Fudan University  
-Sep 2023 – Present  
+Class President, Computer Science Undergraduates Class of 2022, Fudan University
+Sep 2023 – Present
 - Assisted the counselor in managing a class of 120 students, organizing and coordinating various internal and external activities, including spring outings, choir competitions, and the production of military training videos.  
 - Ensured efficient and orderly class operations, enhancing teacher-student connections and class cohesion.
 
