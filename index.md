@@ -60,19 +60,20 @@ Shanghai, China | Jun 2024 – Aug 2024
 
 ---
 
-## INTERNSHIP  
 
-#### Transwarp
 
+---
+
+## EXPERIENCE
+
+### INTERNSHIP  
+
+Transwarp  
 *Software Testing & Development Intern*  
 Shanghai, China | Dec 2024 – Present  
 - Designed testing strategies for automated testing in various simulation settings.  
 - Analyzed test results, identified issues, and provided insights for optimization.  
 - Developed a web-based real-time dashboard to display testing metrics and reports, enabling data-driven decision-making.  
-
----
-
-## EXPERIENCE
 
 ### Leadership
 
