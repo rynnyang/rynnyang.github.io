@@ -9,9 +9,9 @@ layout: page
 
 Here is **Chenyuan Yang (Ryann, 杨晨源)**.<br>
 
-I am currently a junior student at the School of Computer Science at Fudan University, China. During the 2024 fall quarter, I had the opportunity to spend a wonderful autumn as an exchange student at UC Davis.
+I am currently a junior student at the School of Computer Science at [Fudan University](https://www.fudan.edu.cn/en/), China. During the 2024 fall quarter, I had the opportunity to spend a wonderful autumn as an exchange student at UC Davis.
 
-My research interests are on the Natural Language Processing (NLP) and Large Language Models (LLMs). I have been actively involved in the Fudan NLP Group, gaining hands-on experience in alignment tasks, focusing on improving model safety and instruction-following capabilities, as well as processing large datasets. I believe that advanced technologies such as Deep Learning and NLP can significantly enhance our daily lives. I am passionate about leveraging these innovations to create positive societal impact and contribute to the well-being of others.
+My research interests are on the Natural Language Processing (NLP) and Large Language Models (LLMs). I have been actively involved in the [Fudan NLP Group](https://nlp.fudan.edu.cn/nlpen/main.htm) under the guidance of [Dr. Gui](https://guitaowufeng.github.io/), gaining hands-on experience in alignment tasks, focusing on improving model safety and instruction-following capabilities, as well as processing large datasets. I believe that advanced technologies such as Deep Learning and NLP can significantly enhance our daily lives. I am passionate about leveraging these innovations to create positive societal impact and contribute to the well-being of others.
 
 In the future, I hope to pursue a Ph.D. in NLP and contribute to cutting-edge research in large language models, aiming to create technologies that can better understand and interact with human language.
 
@@ -25,7 +25,7 @@ In the future, I hope to pursue a Ph.D. in NLP and contribute to cutting-edge re
 Major: Computer Science and Technology | Sep 2022 – Jun 2026  
 - Cumulative GPA: 3.67/4.0  
 - Scholarships: 
-  Third Prize for the 2023-2024 academic year Fudan University Outstanding Student Scholarship,
+  Third Prize for the 2023-2024 academic year Fudan University Outstanding Student Scholarship, <br>
   Third Prize for the 2022-2023 academic year Fudan University Outstanding Student Scholarship  
 
 
