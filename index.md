@@ -25,11 +25,13 @@ Major: Computer Science and Technology | Sep 2022 – Jun 2026
 - Scholarships: <br>
   Third Prize for the 2023-2024 academic year Fudan University Outstanding Student Scholarship, <br>
   Third Prize for the 2022-2023 academic year Fudan University Outstanding Student Scholarship  
+- My Transcript: [transcript](file/Transcript-Fudan.pdf), [percentage average grade certificate](file/Percentage%20Average%20Grade%20Certificate.pdf)
 
 
 ### University of California, Davis, CA, USA  
 Exchange Program | Sep 2024 – Dec 2024  
 - Cumulative GPA: 4.0/4.0  
+- My Transcript: [transcript](file/Unofficial%20Transcript%20-%20ucdavis.pdf)
 
 ---
 
@@ -60,9 +62,6 @@ Shanghai, China | Jun 2024 – Aug 2024
 
 ---
 
-
-
----
 
 ## EXPERIENCE
 
