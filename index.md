@@ -39,7 +39,7 @@ Exchange Program | Sep 2024 – Dec 2024
 
 ### Fudan University Natural Language Processing Group  
 *Undergraduate Intern*  
-Shanghai, China | Apr 2024 – Present  
+Shanghai, China | Jun 2024 – Present  
 - Conducted data preprocessing and cleansing for NLP model training and evaluation. Assisted in creating and evaluating datasets for supervised and unsupervised tasks (e.g., sentiment analysis, information extraction).  
 - Designed and implemented a safety alignment experiment using Python and PyTorch to evaluate fine-tuned models for safe and ethical responses.  
 - Designed and implemented an automated evaluation method to assess whether model responses satisfy all specified constraints, with the aim of improving the model’s instruction-following ability.  
@@ -47,7 +47,7 @@ Shanghai, China | Apr 2024 – Present
 
 ### THINKDRIVE Autonomous Driving and Digital Twin System (Entrepreneurship Training Project)  
 *Web Front-end Developer*  
-Shanghai, China | Apr 2024 – Present  
+Shanghai, China | Sep 2024 – Present  
 - Developed the web interface for the digital twin system, designing intuitive and responsive UIs.  
 - Implemented front-end data processing logic to ensure seamless integration and presentation.  
 - Assisted in building a simulation training platform for autonomous driving AI model improvement.  
