@@ -22,8 +22,7 @@ Looking ahead, I want to pursue a Ph.D. in NLP, with a focus on building more fl
 ### Fudan University, Shanghai, China  
 Major: Computer Science and Technology | Sep 2022 – Jun 2026  
 - Cumulative GPA: 3.67/4.0  
-- Honors and Awards:: <br>
-  Third Prize Scholarship (2023-2024 & 2022-2023); Fudan University Outstanding Student Scholarship  
+- Honors and Awards: Third Prize Scholarship (2023-2024 & 2022-2023); Fudan University Outstanding Student Scholarship  
 - My Transcript: [transcript](file/Transcript-Fudan.pdf), [percentage average grade certificate](file/Percentage%20Average%20Grade%20Certificate.pdf)
 
 
@@ -68,7 +67,7 @@ Shanghai, China | Jun 2024 – Aug 2024
 
 Transwarp  
 *Software Testing & Development Intern*  
-Shanghai, China | Dec 2024 – Present  
+Shanghai, China | Dec 2024 – Mar 2025  
 - Executed functional and performance testing for ArgoDB distributed database across Linux/Windows environments.
 - Automated test case execution using Python scripts and documented reproducible defect scenarios with JIRA issue tracking.
 -	Built monitoring dashboard integrating Prometheus metrics, enabling faster anomaly detection.
