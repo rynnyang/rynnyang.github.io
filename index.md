@@ -11,7 +11,7 @@ I am currently a junior student at the School of Computer Science at [Fudan Univ
 
 My research interests are on the Natural Language Processing (NLP) and Large Language Models (LLMs). I have been actively involved in the [Fudan NLP Group](https://nlp.fudan.edu.cn/nlpen/main.htm) under the guidance of [Dr. Gui](https://guitaowufeng.github.io/), gaining hands-on experience in alignment tasks, focusing on improving model safety and instruction-following capabilities, as well as processing large datasets. I believe that advanced technologies such as Deep Learning and NLP can significantly enhance our daily lives. I am passionate about leveraging these innovations to create positive societal impact and contribute to the well-being of others.
 
-In the future, I hope to pursue a Ph.D. in NLP and contribute to cutting-edge research in large language models, aiming to create technologies that can better understand and interact with human language.
+Looking ahead, I want to pursue a Ph.D. in NLP, with a focus on building more flexible and creative AI systems.
 
 **<font color="#990000">I am actively seeking Summer Research opportunities for 2025 summer. If you have any information, please contact me. Thank you!</font>**
 
@@ -22,9 +22,8 @@ In the future, I hope to pursue a Ph.D. in NLP and contribute to cutting-edge re
 ### Fudan University, Shanghai, China  
 Major: Computer Science and Technology | Sep 2022 – Jun 2026  
 - Cumulative GPA: 3.67/4.0  
-- Scholarships: <br>
-  Third Prize for the 2023-2024 academic year Fudan University Outstanding Student Scholarship, <br>
-  Third Prize for the 2022-2023 academic year Fudan University Outstanding Student Scholarship  
+- Honors and Awards:: <br>
+  Third Prize Scholarship (2023-2024 & 2022-2023); Fudan University Outstanding Student Scholarship  
 - My Transcript: [transcript](file/Transcript-Fudan.pdf), [percentage average grade certificate](file/Percentage%20Average%20Grade%20Certificate.pdf)
 
 
@@ -41,7 +40,7 @@ Exchange Program | Sep 2024 – Dec 2024
 *Undergraduate Intern*  
 Shanghai, China | Jun 2024 – Present  
 - Engineered NLP data pipelines by implementing text normalization, entity recognition, and semantic filtering techniques, to support model training for sentiment analysis and text summarization tasks.
-- Architected a safety alignment module using PyTorch, implementing content filtering (keyword blacklists) and rule-guided reward scoring based on safety criteria to enhance the safe text generation capabilities of language models..
+- Architected a safety alignment module using PyTorch, implementing content filtering (keyword blacklists) and rule-guided reward scoring based on safety criteria to enhance the safe text generation capabilities of language models.
 - Established a multidimensional evaluation framework combining automated rule-based scoring with human supervision to assess model outputs across safety, relevance, and instruction-following capabilities.
 
 
@@ -84,5 +83,5 @@ Shanghai, China | Sep 2023 – Present
 
 ### Volunteer Services
 
-- FISS (Fudan University Summer International Program) Buddy, Jul 2024 – Aug 2024: ·	Assisted exchange students by coordinating logistics, providing cultural guidance, and ensuring a welcoming environment.  
-- Ceramic Art Association "Sunshine Home" Practice Activity, Mar 2023 – May 2023: •	Guided individuals with intellectual disabilities in ceramic-making, fostering creativity, patience, and inclusivity.  
+- FISS (Fudan University Summer International Program) Buddy, Jul 2024 – Aug 2024: Assisted exchange students by coordinating logistics, providing cultural guidance, and ensuring a welcoming environment.  
+- Ceramic Art Association "Sunshine Home" Practice Activity, Mar 2023 – May 2023: Guided individuals with intellectual disabilities in ceramic-making, fostering creativity, patience, and inclusivity.  
