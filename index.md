@@ -40,25 +40,25 @@ Exchange Program | Sep 2024 – Dec 2024
 ### Fudan University Natural Language Processing Group  
 *Undergraduate Intern*  
 Shanghai, China | Jun 2024 – Present  
-- Conducted data preprocessing and cleansing for NLP model training and evaluation. Assisted in creating and evaluating datasets for supervised and unsupervised tasks (e.g., sentiment analysis, information extraction).  
-- Designed and implemented a safety alignment experiment using Python and PyTorch to evaluate fine-tuned models for safe and ethical responses.  
-- Designed and implemented an automated evaluation method to assess whether model responses satisfy all specified constraints, with the aim of improving the model’s instruction-following ability.  
+- Engineered NLP data pipelines by implementing text normalization, entity recognition, and semantic filtering techniques, to support model training for sentiment analysis and text summarization tasks.
+- Architected a safety alignment module using PyTorch, implementing content filtering (keyword blacklists) and rule-guided reward scoring based on safety criteria to enhance the safe text generation capabilities of language models..
+- Established a multidimensional evaluation framework combining automated rule-based scoring with human supervision to assess model outputs across safety, relevance, and instruction-following capabilities.
 
 
 ### THINKDRIVE Autonomous Driving and Digital Twin System (Entrepreneurship Training Project)  
 *Web Front-end Developer*  
 Shanghai, China | Sep 2024 – Present  
-- Developed the web interface for the digital twin system, designing intuitive and responsive UIs.  
-- Implemented front-end data processing logic to ensure seamless integration and presentation.  
-- Assisted in building a simulation training platform for autonomous driving AI model improvement.  
+- Built core modules of digital twin web interface using modern JavaScript frameworks, implementing real-time vehicle status visualization and interactive controls.
+-	Optimized front-end architecture with modular design, enhancing code maintainability across 20+ reusable UI elements.
+-	Contributed to simulation platform development by creating configurable training scenario templates.
 
 
-### Win Excellence Award & Popularity Award in the Shanghai Library Open Data Competition  
+### Shanghai Library Open Data Competition | Excellence & Popularity Award Winner  
 *Team Leader, Web Front-end Developer*  
 Shanghai, China | Jun 2024 – Aug 2024  
-- Led the team to build the "Shanghai Showcase" website ([sharch.city](https://www.sharch.city)) to offer immersive tours of Shanghai's historic buildings.  
-- Designed and built an interactive website interface.  
-- Worked on data extraction from open databases and used RAG technology for customized database queries.  
+- Developed award-winning cultural heritage platform ([sharch.city](https://www.sharch.city)) with 3D building visualization and AI-powered historical Q&A system.
+-	Implemented responsive frontend using CSS grid layouts and dynamic data rendering (15+ interactive timeline modules).
+-	Built RAG pipeline integrating Shanghai Open Data APIs and custom vector database, improving semantic search relevance.
 
 ---
 
@@ -70,18 +70,19 @@ Shanghai, China | Jun 2024 – Aug 2024
 Transwarp  
 *Software Testing & Development Intern*  
 Shanghai, China | Dec 2024 – Present  
-- Designed testing strategies for automated testing in various simulation settings.  
-- Analyzed test results, identified issues, and provided insights for optimization.  
-- Developed a web-based real-time dashboard to display testing metrics and reports, enabling data-driven decision-making.  
+- Executed functional and performance testing for ArgoDB distributed database across Linux/Windows environments.
+- Automated test case execution using Python scripts and documented reproducible defect scenarios with JIRA issue tracking.
+-	Built monitoring dashboard integrating Prometheus metrics, enabling faster anomaly detection.
+
 
 ### Leadership
 
 Class President, Computer Science Undergraduates Class of 2022, Fudan University  
 Shanghai, China | Sep 2023 – Present  
-- Assisted the counselor in managing a class of 120 students, organizing and coordinating various internal and external activities, including spring outings, choir competitions, and the production of military training videos.  
-- Ensured efficient and orderly class operations, enhancing teacher-student connections and class cohesion.
+- Assisted the counselor in managing a class of 120 students, organizing and coordinating various internal and external activities, including spring outings, choir competitions, and the production of military training videos.
+- Streamlined class operations, strengthening teacher-student connections, and fostering a cohesive environment.
 
 ### Volunteer Services
 
-- FISS (Fudan University Summer International Program) Buddy, Jul 2024 – Aug 2024: Preparation of various tasks to assist summer exchange students  
-- Ceramic Art Association "Sunshine Home" Practice Activity, Mar 2023 – May 2023: Guiding individuals with intellectual disabilities in making ceramics  
+- FISS (Fudan University Summer International Program) Buddy, Jul 2024 – Aug 2024: ·	Assisted exchange students by coordinating logistics, providing cultural guidance, and ensuring a welcoming environment.  
+- Ceramic Art Association "Sunshine Home" Practice Activity, Mar 2023 – May 2023: •	Guided individuals with intellectual disabilities in ceramic-making, fostering creativity, patience, and inclusivity.  
