@@ -36,7 +36,7 @@ Exchange Program | Sep 2024 – Dec 2024
 ## PROJECTS AND RESEARCH EXPERIENCE
 
 ### Fudan University Natural Language Processing Group  
-*Undergraduate Intern*  
+*Research Intern*  
 Shanghai, China | Jun 2024 – Present  
 - Engineered NLP data pipelines by implementing text normalization, entity recognition, and semantic filtering techniques, to support model training for sentiment analysis and text summarization tasks.
 - Architected a safety alignment module using PyTorch, implementing content filtering (keyword blacklists) and rule-guided reward scoring based on safety criteria to enhance the safe text generation capabilities of language models.
