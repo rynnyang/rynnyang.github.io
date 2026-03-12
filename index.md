@@ -5,6 +5,7 @@ layout: page
 # About Me
 
 <img src="images/ycy-25summer.jpg" alt="Personal Image" class="floatpic"/>
+
 Here is **Chenyuan Yang (Ryann, 杨晨源)**.<br>
 
 I am currently a 4th year student at the School of Computer Science at [Fudan University](https://www.fudan.edu.cn/en/), China. I'm going to pursue my master's degree in the [Language Technologies Institute at CMU](https://www.lti.cs.cmu.edu/).
