@@ -71,7 +71,7 @@ Shanghai, China | Jun 2024 – Aug 2024
 
 ## EXPERIENCE
 
-### INTERNSHIP  
+### INTERNSHIP  {: #intern }
 
 Bytedance  
 *Data Governance Intern*  
@@ -94,7 +94,7 @@ Executed functional and performance testing for ArgoDB distributed database acro
 - Assisted in test environment setup and CI/CD integration using Git and Docker to improve test efficiency and deployment reliability.
 
 
-### LEADERSHIP AND EXTRACURRICULAR EXPERIENCE
+### LEADERSHIP AND EXTRACURRICULAR EXPERIENCE {: #experience }
 
 Class President, Computer Science Undergraduates Class of 2022, Fudan University  
 Shanghai, China | Sep 2023 – Present  
