@@ -73,8 +73,6 @@ Shanghai, China | Jun 2024 – Aug 2024
 
 ### INTERNSHIP  
 
-{: #intern }
-
 Bytedance  
 *Data Governance Intern*  
 Shanghai, China | Sept 2025 – Present  
