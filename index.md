@@ -19,18 +19,16 @@ Looking ahead, I want to pursue a Ph.D. in NLP, with a focus on building more fl
 
 ## EDUCATION
 
-###  Carnegie Mellon University, Pittsburgh, USA
-
-Master of Science in Artificial Intelligence and Innovation
-
-- Incoming Graduate Student (Fall 2026 Entry)
+###  Carnegie Mellon University, Pittsburgh, USA  
+Master of Science in Artificial Intelligence and Innovation  
+- Incoming Graduate Student (Fall 2026 Entry)  
 
 
 ### Fudan University, Shanghai, China  
 Major: Computer Science and Technology | Sep 2022 – Jun 2026  
-- Cumulative GPA: 3.67/4.0  
-- Honors and Awards: Third Prize Scholarship (2023-2024 & 2022-2023); Fudan University Outstanding Student Scholarship  
-- My Transcript: [transcript](file/Transcript-Fudan.pdf), [percentage average grade certificate](file/Percentage%20Average%20Grade%20Certificate.pdf)
+- Cumulative GPA: 94/100 
+- Honors and Awards: Fudan University Outstanding Student Scholarship: Second Prize (2024–2025); Third Prize (2023–2024, 2022–2023)  
+- My Transcript: [transcript](file/Chenyuan Yang_FDU Transcript and Enrollment Certificate.pdf)
 
 
 ### University of California, Davis, CA, USA  
@@ -50,20 +48,24 @@ Shanghai, China | Jun 2024 – Present
 - Established a multidimensional evaluation framework combining automated rule-based scoring with human supervision to assess model outputs across safety, relevance, and instruction-following capabilities.
 
 
-### THINKDRIVE Autonomous Driving and Digital Twin System (Entrepreneurship Training Project)  
+### THINKDRIVE Autonomous Driving and Digital Twin System   
+University Student Innovation & Entrepreneurship Development Program            
 *Web Front-end Developer*  
 Shanghai, China | Sep 2024 – Present  
 - Built core modules of digital twin web interface using modern JavaScript frameworks, implementing real-time vehicle status visualization and interactive controls.
--	Optimized front-end architecture with modular design, enhancing code maintainability across 20+ reusable UI elements.
--	Contributed to simulation platform development by creating configurable training scenario templates.
+- Optimized front-end architecture with modular design, enhancing code maintainability across 20+ reusable UI elements; developed data bridging solutions between browser clients and autonomous driving simulators using WebSocket APIs.
+- Contributed to simulation platform development by creating configurable training scenario templates.
+- **Adopted as a teaching tool in Principles and Practice of Artificial Intelligence for Autonomous Driving, an AI course at Fudan University.
+**
 
-
-### Shanghai Library Open Data Competition | Excellence & Popularity Award Winner  
+### Shanghai Library Open Data Competition  
 *Team Leader, Web Front-end Developer*  
 Shanghai, China | Jun 2024 – Aug 2024  
-- Developed award-winning cultural heritage platform ([sharch.city](https://www.sharch.city)) with 3D building visualization and AI-powered historical Q&A system.
--	Implemented responsive frontend using CSS grid layouts and dynamic data rendering (15+ interactive timeline modules).
--	Built RAG pipeline integrating Shanghai Open Data APIs and custom vector database, improving semantic search relevance.
+- Developed award-winning cultural heritage platform with 3D building visualization and AI-powered historical Q&A system.
+- Implemented responsive frontend using CSS grid layouts and dynamic data rendering (15+ interactive timeline modules).
+- Built RAG pipeline integrating Shanghai Open Data APIs and custom vector database, improving semantic search relevance. 
+- **Won the Excellence & Popularity Award. **
+
 
 ---
 
@@ -72,22 +74,40 @@ Shanghai, China | Jun 2024 – Aug 2024
 
 ### INTERNSHIP  
 
-Transwarp  
+Bytedance  
+*Data Governance Intern*  
+Shanghai, China | Sept 2025 – Present  
+- Developed a Unified Data Taxonomy by analyzing TikTok backend assets through exploratory data analysis, feature extraction, and sample validation, and identified patterns and correlations to guide standardized recognition rules.
+- Integrated algorithmic and LLM-based methods to optimize classification accuracy and recall, increasing classification capability coverage from 87% to 94% and improving classification performance (F1 score) from 92% to 95%, while
+supporting model enhancement and deployment through data pipeline construction.
+- Defined asset selection rules and implemented an SDLC-based incremental labeling process, addressing cold-start challenges for new business domains through LLM-based reasoning and few-shot learning, enabling sustainable and
+lightweight tag updates.
+- Designed the supporting analysis framework and applied business research and sample analysis to provide accurate references for automated recognition.
+
+
+Transwarp Technology (Shanghai) Co., Ltd  
 *Software Testing & Development Intern*  
 Shanghai, China | Dec 2024 – Mar 2025  
-- Executed functional and performance testing for ArgoDB distributed database across Linux/Windows environments.
-- Automated test case execution using Python scripts and documented reproducible defect scenarios with JIRA issue tracking.
--	Built monitoring dashboard integrating Prometheus metrics, enabling faster anomaly detection.
+Executed functional and performance testing for ArgoDB distributed database across Linux/Windows environments.
+- Automated test case execution using Python scripts, covering 20+ core features including index management.
+- Analyzed system performance under concurrent operations, identifying bottlenecks and providing actionable feedback to optimize database throughput and latency.
+- Documented reproducible defect scenarios with JIRA issue tracking to resolve issues affecting multi-node consistency and fault tolerance.
+- Assisted in test environment setup and CI/CD integration using Git and Docker to improve test efficiency and deployment reliability.
 
 
-### Leadership
+### LEADERSHIP AND EXTRACURRICULAR EXPERIENCE
 
 Class President, Computer Science Undergraduates Class of 2022, Fudan University  
 Shanghai, China | Sep 2023 – Present  
-- Assisted the counselor in managing a class of 120 students, organizing and coordinating various internal and external activities, including spring outings, choir competitions, and the production of military training videos.
+- Assisted the counselor in managing a class of 120 students, coordinating events such as spring outings, choir competitions, and class retrospective video production.
 - Streamlined class operations, strengthening teacher-student connections, and fostering a cohesive environment.
 
-### Volunteer Services
+Math Tutor - Middle School Level ｜ Jul.2024 - Present  
+- Provided one-on-one mathematics tutoring over 1.5 years, previewing new topics and designing targeted exercises.
+- Guided the student to tackle mathematical problems using visual modeling, structured decomposition, and step-by-step reasoning frameworks, which led to sustained improvement in mathematical performance and transferable analytical skills.
 
-- FISS (Fudan University Summer International Program) Buddy, Jul 2024 – Aug 2024: Assisted exchange students by coordinating logistics, providing cultural guidance, and ensuring a welcoming environment.  
-- Ceramic Art Association "Sunshine Home" Practice Activity, Mar 2023 – May 2023: Guided individuals with intellectual disabilities in ceramic-making, fostering creativity, patience, and inclusivity.  
+FISS (Fudan University Summer International Program) Buddy ｜ Jul.2024 - Aug.2024  
+- Assisted exchange students by coordinating logistics and providing cultural guidance for a welcoming environment.
+  
+Ceramic Art Association "Sunshine Home" Practice Activity ｜ Mar.2023  
+- Guided individuals with intellectual disabilities in ceramic-making, fostering creativity, patience, and inclusivity.
