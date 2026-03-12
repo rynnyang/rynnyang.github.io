@@ -55,8 +55,7 @@ Shanghai, China | Sep 2024 – Present
 - Built core modules of digital twin web interface using modern JavaScript frameworks, implementing real-time vehicle status visualization and interactive controls.
 - Optimized front-end architecture with modular design, enhancing code maintainability across 20+ reusable UI elements; developed data bridging solutions between browser clients and autonomous driving simulators using WebSocket APIs.
 - Contributed to simulation platform development by creating configurable training scenario templates.
-- **Adopted as a teaching tool in Principles and Practice of Artificial Intelligence for Autonomous Driving, an AI course at Fudan University.
-**
+- **Adopted as a teaching tool in Principles and Practice of Artificial Intelligence for Autonomous Driving, an AI course at Fudan University.**
 
 ### Shanghai Library Open Data Competition  
 *Team Leader, Web Front-end Developer*  
@@ -64,7 +63,7 @@ Shanghai, China | Jun 2024 – Aug 2024
 - Developed award-winning cultural heritage platform with 3D building visualization and AI-powered historical Q&A system.
 - Implemented responsive frontend using CSS grid layouts and dynamic data rendering (15+ interactive timeline modules).
 - Built RAG pipeline integrating Shanghai Open Data APIs and custom vector database, improving semantic search relevance. 
-- **Won the Excellence & Popularity Award. **
+- **Won the Excellence & Popularity Award.**
 
 
 ---

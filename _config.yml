@@ -39,14 +39,14 @@ owner:
 links:
   - title: About Me
     url: /
-  # - title: Publications
-  #   url: /publications/
+  - title: Publications
+    url: /publications/
   # - title: Research
   #   url: /research/
-  # - title: Intern
-  #   url: /intern/
-  # - title: Experience
-  #   url: /experience/
+  - title: Intern
+    url: /intern/
+  - title: Experience
+    url: /experience/
   # - title: Hobbies
   #   url: /hobbies/
   # - title: Startups
