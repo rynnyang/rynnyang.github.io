@@ -98,8 +98,6 @@ Executed functional and performance testing for ArgoDB distributed database acro
 
 ### LEADERSHIP AND EXTRACURRICULAR EXPERIENCE 
 
-{: #experience }
-
 Class President, Computer Science Undergraduates Class of 2022, Fudan University  
 Shanghai, China | Sep 2023 – Present  
 - Assisted the counselor in managing a class of 120 students, coordinating events such as spring outings, choir competitions, and class retrospective video production.
