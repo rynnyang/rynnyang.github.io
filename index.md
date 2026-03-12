@@ -19,6 +19,13 @@ Looking ahead, I want to pursue a Ph.D. in NLP, with a focus on building more fl
 
 ## EDUCATION
 
+###  Carnegie Mellon University, Pittsburgh, USA
+
+Master of Science in Artificial Intelligence and Innovation
+
+- Incoming Graduate Student (Fall 2026 Entry)
+
+
 ### Fudan University, Shanghai, China  
 Major: Computer Science and Technology | Sep 2022 – Jun 2026  
 - Cumulative GPA: 3.67/4.0  
