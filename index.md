@@ -4,16 +4,16 @@ layout: page
 
 # About Me
 
-<img src="images/ycy.jpg" alt="Personal Image" class="floatpic"/>
+<img src="images/ycy-25summer.jpg" alt="Personal Image" class="floatpic"/>
 Here is **Chenyuan Yang (Ryann, 杨晨源)**.<br>
 
-I am currently a junior student at the School of Computer Science at [Fudan University](https://www.fudan.edu.cn/en/), China. During the 2024 fall quarter, I had the opportunity to spend a wonderful autumn as an exchange student at UC Davis.
+I am currently a 4th year student at the School of Computer Science at [Fudan University](https://www.fudan.edu.cn/en/), China. I'm going to pursue my master's degree in the [Language Technologies Institute at CMU](https://www.lti.cs.cmu.edu/).
 
-My research interests are on the Natural Language Processing (NLP) and Large Language Models (LLMs). I have been actively involved in the [Fudan NLP Group](https://nlp.fudan.edu.cn/nlpen/main.htm) under the guidance of [Dr. Gui](https://guitaowufeng.github.io/), gaining hands-on experience in alignment tasks, focusing on improving model safety and instruction-following capabilities, as well as processing large datasets. I believe that advanced technologies such as Deep Learning and NLP can significantly enhance our daily lives. I am passionate about leveraging these innovations to create positive societal impact and contribute to the well-being of others.
+My research focuses on Adaptive Scaling for Large Language Models (LLMs). Specifically, I am interested in developing architectural and algorithmic interventions — such as Mixture-of-Experts (MoE) routing and reinforcement learning-based sampling — to optimize how models dynamically allocate computation for complex reasoning and multilingual tasks. My goal is to build efficient, domain-agnostic systems that maintain robustness across diverse modalities, including mathematical reasoning and time-series forecasting.
 
-Looking ahead, I want to pursue a Ph.D. in NLP, with a focus on building more flexible and creative AI systems.
+Looking ahead, I aim to join a leading technology company as an NLP engineer, not merely implementing existing frameworks, but pioneering novel applications that directly address critical product challenges and enhance user interaction efficiency. In the long term, I aspire to become a machine learning tech lead, designing innovative technology solutions that bridge the gap between academic research and impactful product deployment.
 
-**<font color="#990000">I am actively seeking Summer Research opportunities for 2025 summer. If you have any information, please contact me. Thank you!</font>**
+**<font color="#990000">I am actively seeking Summer Research for 2026 summer and beyond. If you have any information, please contact me. Thank you!</font>**
 
 ---
 
