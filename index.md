@@ -27,8 +27,7 @@ Master of Science in Artificial Intelligence and Innovation
 
 ### Fudan University, Shanghai, China  
 Major: Computer Science and Technology | Sep 2022 – Jun 2026  
-- Cumulative GPA: 94/100 
-- Honors and Awards: Fudan University Outstanding Student Scholarship: Second Prize (2024–2025); Third Prize (2023–2024, 2022–2023)  
+- Cumulative GPA: 94/100   
 - My Transcript: [transcript](file/Chenyuan Yang_FDU Transcript and Enrollment Certificate.pdf)
 
 
